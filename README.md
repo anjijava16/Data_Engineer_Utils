@@ -95,6 +95,7 @@
 - https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-ii-47c4e7cbda71
 - https://medium.com/@rchang/a-beginners-guide-to-data-engineering-the-series-finale-2cc92ff14b0
 - https://medium.com/@damesavram/running-airflow-on-heroku-ed1d28f8013d
+- https://github.com/yennanliu/airflow-heroku-dev
 
 ### NextFlix
 - https://github.com/NFLX-WIBD/WIBD-Workshops-2018
