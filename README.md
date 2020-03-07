@@ -90,5 +90,10 @@
 - [SF Data Weekly](http://weekly.sfdata.io) - A weekly email of useful links for people interested in building data platforms
 - [Data Elixir](https://dataelixir.com/) - Data Elixir is an email newsletter that keeps you on top of the tools and trends in Data Science.
 
+### Airflow
+- https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7
+- https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-ii-47c4e7cbda71
+- https://medium.com/@rchang/a-beginners-guide-to-data-engineering-the-series-finale-2cc92ff14b0
+
 ### NextFlix
 - https://github.com/NFLX-WIBD/WIBD-Workshops-2018
